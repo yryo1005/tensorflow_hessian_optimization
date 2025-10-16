@@ -1,0 +1,2 @@
+from tensorflow_hessian.optimizers.newton_method import NewtonMethod
+from tensorflow_hessian.optimizers.momentum_newton_method import MomentumNewtonMethod
